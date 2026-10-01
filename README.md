@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/WebAudio%20%26%20Synthesis-Interactive-7c4dff?style=for-the-badge" />
 </div>
 
-I build software for the browser where gameplay, simulation, and expressive interaction meet. My work focuses on 2D web games, game-engine architecture, physics systems, procedural simulation, and creative audio tools.
+I build software for the browser where gameplay, simulation, and expressive interaction meet. My work focuses on 2D web games, game-engine architecture, physics systems, procedural simulation, and[...]
 
 I specialize in:
 - 2D web game development
@@ -21,7 +21,7 @@ I specialize in:
 
 ## Featured work
 
-### 🌱 WeedJS — Multithreaded 2D Web Game Engine
+### 🌱 Web Engine for Enhanced Dynamics — Multithreaded 2D Web Game Engine
 A custom engine designed for high-performance browser games, built around worker-based architecture, SharedArrayBuffer-backed state, and browser-native rendering and physics pipelines.
 
 - Live demo: https://multithreaded-game-engine.vercel.app/demos
